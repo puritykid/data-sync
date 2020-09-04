@@ -1,0 +1,4 @@
+app:
+  id: DC-Vehicle-Synchronization
+apollo:
+  meta: http://configuration.pet.lunz.cn

@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+  kafka:
+    consumer:
+      properties:
+        ssl:
+          endpoint:
+            identification:
+              algorithm: ''
